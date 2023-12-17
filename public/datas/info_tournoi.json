@@ -1,0 +1,24 @@
+{ "tournoi": { "titre": "Tournoi en salle U9G/U11G", 
+"date": "Samedi 06/01/2024", 
+"temps_jeu": "Temps de jeu 8 minutes. Rotation toutes les 9 minutes", 
+"lien_reglement": "pdf/01_ReglementTournoi2024.pdf", 
+"lien_ficheequipe": "pdf/02_Reference-Inscriptions2024.pdf", 
+"lien_site": "https://www.tes.fcvalduloir.live/fcvlfutsal_u9g_u11g_2024/dist/", 
+"titre_QRcode": "Tournoi En Salle FCVL futsal U9G U11G 2024" 
+},"lessalles": [
+{"id": "1-GLC",    
+"nomlong": "Gymnase Guy La Croix",    
+"lien": "img/salles/1-GLC-int.png"},  
+{"id": "2-CCVL",
+"nomlong": "Gymnase CC Val du Loir",
+"lien": "img/salles/2-CCVL.png"}
+],"lescategories": [
+{"id": "cat1",
+"categorie_id": "U9G",
+"nomlong": "U9 Garçons",
+"texthoraire": "Rdv 9h - Début 9h30"},
+{"id": "cat2",
+"categorie_id": "U11G",
+"nomlong": "U11 Garçons",
+"texthoraire": "Rdv 9h - Début 9h30"}
+],"lesequipes": [ {"cat_code": "cat1","categorie_id": "U9G","poule": "PA","id": "U9G1","nom": "VILLIERS AU BOUIN","nomCourt": "VILLIERS","fanion": "villiers.png"},{"cat_code": "cat1","categorie_id": "U9G","poule": "PA","id": "U9G2","nom": "FC VAL DU LOIR 1","nomCourt": "FCVL1","fanion": "fcvl.png"},{"cat_code": "cat1","categorie_id": "U9G","poule": "PA","id": "U9G3","nom": "ECOMMOY F.C. 2","nomCourt": "ECOMMOY2","fanion": "ecommoy.png"},{"cat_code": "cat1","categorie_id": "U9G","poule": "PA","id": "U9G4","nom": "C. OM. CASTELORIEN","nomCourt": "COC","fanion": "coc.png"},{"cat_code": "cat1","categorie_id": "U9G","poule": "PB","id": "U9G5","nom": "ECOMMOY F.C. 1","nomCourt": "ECOMMOY1","fanion": "ecommoy.png"},{"cat_code": "cat1","categorie_id": "U9G","poule": "PB","id": "U9G6","nom": "ENT. LOIR ET BERCE","nomCourt": "LOIR&BERCE","fanion": "loiretberce.png"},{"cat_code": "cat1","categorie_id": "U9G","poule": "PB","id": "U9G7","nom": "FC VAL DU LOIR 2","nomCourt": "FCVL2","fanion": "fcvl.png"},{"cat_code": "cat1","categorie_id": "U9G","poule": "PB","id": "U9G8","nom": "GATINE CHOIS.","nomCourt": "GATINE","fanion": "gatine.png"},{"cat_code": "cat2","categorie_id": "U11G","poule": "PA","id": "U11G1","nom": "FC VAL DU LOIR 1","nomCourt": "FCVL1","fanion": "fcvl.png"},{"cat_code": "cat2","categorie_id": "U11G","poule": "PA","id": "U11G2","nom": "VILLIERS AU BOUIN","nomCourt": "VILLIERS","fanion": "villiers.png"},{"cat_code": "cat2","categorie_id": "U11G","poule": "PA","id": "U11G3","nom": "ENT. LOIR ET BERCE","nomCourt": "LOIR&BERCE","fanion": "loiretberce.png"},{"cat_code": "cat2","categorie_id": "U11G","poule": "PA","id": "U11G4","nom": "A.S. PAYS DE RACAN2","nomCourt": "P.RACAN2","fanion": "paysderacan.png"},{"cat_code": "cat2","categorie_id": "U11G","poule": "PB","id": "U11G5","nom": "A.S. PAYS DE RACAN1","nomCourt": "P.RACAN1","fanion": "paysderacan.png"},{"cat_code": "cat2","categorie_id": "U11G","poule": "PB","id": "U11G6","nom": "C. OM. CASTELORIEN","nomCourt": "COC","fanion": "coc.png"},{"cat_code": "cat2","categorie_id": "U11G","poule": "PB","id": "U11G7","nom": "FC VAL DU LOIR 2","nomCourt": "FCVL2","fanion": "fcvl.png"},{"cat_code": "cat2","categorie_id": "U11G","poule": "PB","id": "U11G8","nom": "GATINE CHOIS.","nomCourt": "GATINE","fanion": "gatine.png"} ] }
